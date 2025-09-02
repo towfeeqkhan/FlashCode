@@ -1,12 +1,27 @@
-# React + Vite
+## **FlashCode** 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+<img width="1920" height="1080" alt="Screenshot (161)" src="https://github.com/user-attachments/assets/7c811a0c-0bb0-428e-b1c8-231a0b0d55d2" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+AI-powered web app builder similar to Bolt and Cursor, using Gemini under the hood. It combines an intelligent chat interface with a live coding environment, allowing developers to generate, edit, and deploy apps seamlessly with AI assistance.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[View Live Project](https://flashcode-web.vercel.app/)
+
+
+### **Screenshots**
+
+<img width="1920" height="1080" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/a8c1e982-4715-40e3-b938-b20bc432dbda" />
+
+
+
+<img width="1920" height="1080" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/63173274-c92e-485b-ba53-0d29392ccb80" />
+
+
+
+
+---
+
+### **Contributing 🤝**
+
+We welcome contributions! If you have suggestions for new features, or improvements, feel free to open an issue or submit a pull request.
